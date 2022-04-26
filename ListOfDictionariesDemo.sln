@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryLoopsDemo", "ListOfDictionariesDemo\DictionaryLoopsDemo.csproj", "{5D918440-8176-4343-A9AD-605CFD0CDE6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryLoops", "ListOfDictionariesDemo\DictionaryLoops.csproj", "{5D918440-8176-4343-A9AD-605CFD0CDE6B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfDictionariesLoops", "ListOfDictionariesLoops\ListOfDictionariesLoops.csproj", "{F157F04D-B4B2-42AF-92C2-3D27E7A49684}"
 EndProject
